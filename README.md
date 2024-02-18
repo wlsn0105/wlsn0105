@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=오%20신기하다ㅋㅋㅋ&fontSize=50)
-<div align="center"><h1>경험치</h1></div>
+<div align="center"><h1>📚 경험치</h1></div>
 <!--
 **wlsn0105/wlsn0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
