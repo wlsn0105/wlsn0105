@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=오%20신기하다ㅋㅋㅋ&fontSize=50)
-<div align="center"><h2>📚 경험치</h2></div>
-
+<div align="center"><h2>📚 My Stack</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br/>
+  
+</div>
+
+<div align="center"><h2>🛠️ Tools 🛠</h2></div>
+<div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 </div>
 <!--
